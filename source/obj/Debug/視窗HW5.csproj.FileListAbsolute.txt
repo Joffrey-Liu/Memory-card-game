@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\bin\Debug\視窗HW5.exe.config
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\bin\Debug\視窗HW5.exe
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\bin\Debug\視窗HW5.pdb
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.exe
+c:\users\user\documents\visual studio 2012\Projects\視窗HW5\視窗HW5\obj\Debug\視窗HW5.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\bin\Debug\視窗HW5.exe.config
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.exe
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\bin\Debug\視窗HW5.exe
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\bin\Debug\視窗HW5.pdb
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.csprojResolveAssemblyReference.cache
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.Form1.resources
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.Properties.Resources.resources
+C:\Users\Liu\Downloads\備審資料\劉兆鵬備審資料\劉兆鵬備審資料\作品集\視窗HW5\視窗HW5\視窗HW5\obj\Debug\視窗HW5.csproj.GenerateResource.Cache
